@@ -25,3 +25,6 @@ Future updates include :
 3) Current limiting and safety circuitry inclusion
 
 ![image](https://github.com/Mainul-Islam-07/Custom-Buck-Converter/assets/78782260/2769c959-510f-43a1-a006-3f3c2a8e44a3)
+
+![image](https://github.com/Mainul-Islam-07/Custom-Buck-Converter/assets/78782260/c83aa222-178b-49b8-b564-70f4922abcd3)
+
